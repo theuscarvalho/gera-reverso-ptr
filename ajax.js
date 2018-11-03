@@ -31,7 +31,7 @@ function getDados() {
     // Exibi a imagem de progresso
     // result.innerHTML = '<img src="Progresso1.gif"/>';
     // Monta a requisição
-    xmlreq.open("GET", "consulta-ptr.php" + "?cidr=" + nome + "&dominio=" + reverso);
+    xmlreq.open("GET", "consulta-ptr.php" + "?cidr=" + nome + "&dominio=" + reverso, true);
     // Atribui uma função para ser executada sempre que houver uma mudança de estado
     xmlreq.onreadystatechange = function(){
         // Verifica se foi concluído com sucesso e a conexão fechada
