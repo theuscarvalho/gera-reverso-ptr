@@ -24,7 +24,7 @@
 				Infome o Dominio ex: matheuscarvalho.com: 
                 <input type="text" name="dominio" id="dominio"/> 
 				<br>
-                <input type="button" name="btnPesquisar" value="Pesquisar" onclick="getDados();"/>
+                <input type="button" name="btnPesquisar" value="Gerar" onclick="getDados();"/>
 				</center>
             </div>
             <hr/>
