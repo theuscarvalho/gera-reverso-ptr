@@ -5,7 +5,7 @@ Gere arquivos ptr para seu dns unbound/bind com facilidade e rapidez =)
 
 OBS: Pode ser compartilhado ou reproduzido contanto que os creditos do desenvolvedor permaneçam.
 
-OBS 2: Caso já possua um servidor apache instalado e em produção, basta pular para o passo 2 da instalação. 
+OBS 2: Caso já possua um servidor apache instalado e em produção, pode pular o passo 1 da instalação. 
 
 
 
